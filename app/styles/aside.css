@@ -1,0 +1,32 @@
+aside {
+  float: left;
+}
+.wrap-aside {
+  border: 1px solid #dddddd;
+  margin: 18px;
+  width: 219px;
+  margin: 25px 0 0 0;
+}
+.wrap-aside .title-botton {
+  color: #1c6f41;
+  font-size: 16px;
+  padding: 0px 10px 10px;
+}
+.wrap-aside .title {
+  color: #1c6f41;
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
+  padding: 10px;
+}
+.wrap-aside .wrap-list .title {
+  color: #1c6f41;
+  font-size: 12px;
+  border-bottom: 1px solid #ffffff;
+}
+.wrap-aside .wrap-list ul li {
+  font-size: 12px;
+  padding: 1px 10px;
+}
+.wrap-aside .wrap-list ul .divisor {
+  width: 80%;
+}

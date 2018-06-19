@@ -1,0 +1,14 @@
+p {
+  font: bold 22px 'Arial';
+  color: #999;
+  text-align: center;
+}
+
+input:focus {
+  box-shadow: none !important;
+  border-color: #ccc !important;
+}
+
+.bold {
+  font-weight: bold;
+}

@@ -1,0 +1,42 @@
+.container-header {
+  margin-top: 15px;
+}
+.wrap-container {
+  margin: 15px 30px;
+}
+.wrap-container .input-group .input-group-prepend .input-group-text {
+  background-color: transparent;
+}
+.wrap-container .input-group .form-control {
+  border-left: none;
+}
+.wrap-container .input-group .input-group-append .btn {
+  background-color: #004f27;
+  color: #FFFFFF;
+  width: 96px;
+}
+.wrap-header .input-group {
+  width: 446px;
+  height: 52px;
+}
+.wrap-header .wraper-user-infos {
+  border-right: solid 1px #f5b518;
+  padding: 0 15px;
+}
+.wrap-header .wraper-user-infos .wrap-icon {
+  padding: 6px;
+}
+.wrap-header .wraper-user-infos .infos {
+  padding: 5px;
+}
+.wrap-header .wraper-user-infos .infos span {
+  display: block;
+  line-height: 20px;
+}
+.wrap-header .wraper-user-infos .infos span a {
+  text-decoration: none;
+  color: #000000;
+}
+.wraper-user-infos.wrap-account:last-child {
+  border-right: solid 1px #ffffff;
+}

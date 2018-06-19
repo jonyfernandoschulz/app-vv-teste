@@ -1,0 +1,24 @@
+ol.breadcrumb {
+  background-color: transparent;
+  border-bottom: 1px solid #dddddd;
+  border-radius: 0;
+  padding-left: 0;
+  font-size: 14px;
+}
+.container-breadcrumb {
+  display: table;
+}
+.container-breadcrumb .wrap-content {
+  margin-top: 50px;
+  display: table;
+  width: 100%;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+  content: ',' !important;
+}
+.breadcrumb-item a {
+  color: #666666 !important;
+}
+.breadcrumb-item.active {
+  color: #1c6f41 !important;
+}

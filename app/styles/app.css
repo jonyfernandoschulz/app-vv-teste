@@ -1,5 +1,13 @@
-p {
-  font: bold 22px 'Arial';
-  color: #999;
-  text-align: center;
-}
+@import url("reset.css");
+@import url("default.css");
+
+/* HEADER */
+@import url("header.css");
+/* MENU */
+@import url("menu.css");
+/* BREADCRUMBS */
+@import url("breadcrumb.css");
+/* ASIDE */
+@import url("aside.css");
+/* PRODUCTS */
+@import url("products.css");
